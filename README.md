@@ -3,4 +3,4 @@ ELF basemap on Leaflet
 
 http://handygeospatial.github.io/elf-basemap-leaflet/
 
-Correct me if I do something wrong ;-)
+Correct me if there is something wrong. :-)
